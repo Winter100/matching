@@ -1,4 +1,4 @@
-import { usePlaceholder } from '../_api/usePlaceholder';
+import { usePlaceholder } from '../api/usePlaceholder';
 
 const About = () => {
   const { data, isLoading, error } = usePlaceholder(10);

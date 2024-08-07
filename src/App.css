@@ -1,8 +1,6 @@
 #root {
-  border: 1px solid red;
-  max-width: 900px;
+  max-width: 700px;
   height: 100%;
   margin: 0 auto;
   box-sizing: border-box;
-  text-align: center;
 }
